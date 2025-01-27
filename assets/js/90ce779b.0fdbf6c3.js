@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1535],{7892:(e,t,c)=>{c.r(t),c.d(t,{default:()=>i});var r=c(6540),s=c(4848);function i(){return(0,r.useEffect)((()=>{window.location.href="https://forms.yandex.ru/cloud/655c6622c417f32c6e64d163/"}),[]),(0,s.jsx)("div",{children:(0,s.jsx)("p",{children:"Redirecting to the form..."})})}}}]);
